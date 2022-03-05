@@ -1,2 +1,2 @@
 <h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. naveen kumar tharasingh from INDIA </h2>
+<h2> By Mr. navin kumar tharasingh from CHENNAI </h2>
